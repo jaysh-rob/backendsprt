@@ -10,6 +10,6 @@ phases:
 
 
 artifacts:
-  base-directory: 'build'
+  base-directory: '.'
   files:
     - '**/*'
